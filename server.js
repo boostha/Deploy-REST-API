@@ -5,6 +5,7 @@ const express = require('express')
 const app = express()
 const router = require('./routes/api')
 const dotenv = require('dotenv').config()
+const uri = process.env.MONGODB_URI;
 
 
 // Use middleware for index page
