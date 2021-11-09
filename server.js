@@ -11,7 +11,7 @@ const dotenv = require('dotenv').config()
 app.use(express.static('public'))
 
 // Load routes
-app.use('sait-cpnt262-a5-david.herokuapp.com/api', router)
+app.use('/api', router)
 
 
 // ERROR handlers for API or HTML
