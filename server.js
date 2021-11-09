@@ -1,10 +1,10 @@
 /******************/
 /* Import Modules */
 /******************/
-
 const express = require('express')
 const app = express()
 const router = require('./routes/api')
+const dotenv = require('dotenv').config()
 
 
 // Use middleware for index page
