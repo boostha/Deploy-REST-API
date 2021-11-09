@@ -1,0 +1,19 @@
+{
+  "name": "assignment5",
+  "version": "1.0.0",
+  "description": "CPNT 262 Assigment 2 - Dynamic Image Gallery",
+  "main": "server.js",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "David Ha",
+  "license": "ISC"
+}
