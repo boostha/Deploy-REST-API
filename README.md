@@ -8,9 +8,9 @@ David Ha
 
 ## Links
 
-- [Heroku]()
+- [Heroku](https://sait-cpnt262-a5-david.herokuapp.com)
 
-- [Github Repo]()
+- [Github Repo](https://github.com/boostha/cpnt262-a5)
 
 ## Context
 
