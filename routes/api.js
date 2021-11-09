@@ -6,7 +6,7 @@ const express = require('express')
 const router = express.Router()
 
 // GET request for entire gallery
-router.get('/lego', async (req, res) => {
+router.get('sait-cpnt262-a5-david.herokuapp.com/api/lego', async (req, res) => {
   
   try {
     const legoGallery = await legoModel.find()
